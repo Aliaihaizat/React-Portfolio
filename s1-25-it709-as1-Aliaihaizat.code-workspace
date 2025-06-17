@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../s1-25-it709-as1-Aliaihaizat"
+		},
+		{
+			"path": "../Web-Portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web-Portfolio"
+	}
+}

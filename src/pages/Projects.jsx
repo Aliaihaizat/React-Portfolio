@@ -13,7 +13,7 @@ function Projects() {
     {
       id: 1,
       title: "Studio Ghibli Fan Page",
-      image: "/images/ghibliMain.png",
+      image: "../images/ghibliMain.png",
       description: "A fan page for Studio Ghibli films",
       wide: true,
       tags: ["HTML", "CSS", "Responsive"]
