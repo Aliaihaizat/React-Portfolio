@@ -22,7 +22,7 @@ export default function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename='/React-Portfolio'>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />

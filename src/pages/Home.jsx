@@ -10,7 +10,7 @@ function Home() {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/public/AliaCV.pdf'; 
+    link.href = '/React-Portfolio/public/AliaCV.pdf'; 
     link.download = 'Alia_Haizat_CV.pdf'; 
     document.body.appendChild(link);
     link.click();
@@ -23,7 +23,7 @@ function Home() {
       <section>
         <div className="main-container">
           <div className="image" data-aos="zoom-in-right" data-aos-duration="2500">
-            <img src="/images/mainSquare.png" alt="picture of Alia" />
+            <img src="/React-Portfolio/public/images/mainSquare.png" alt="picture of Alia" />
           </div>
           <div className="content">
             <h1 data-aos="fade-left" data-aos-duration="1000" data-aos-delay="800">

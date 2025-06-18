@@ -13,7 +13,7 @@ function Projects() {
     {
       id: 1,
       title: "Studio Ghibli Fan Page",
-      image: "../images/ghibliMain.png",
+      image: "/React-Portfolio/public/images/ghibliMain.png",
       description: "A fan page for Studio Ghibli films",
       wide: true,
       tags: ["HTML", "CSS", "Responsive"]
@@ -21,7 +21,7 @@ function Projects() {
     {
       id: 2,
       title: "Travel Store",
-      image: "/images/collective.png",
+      image: "/React-Portfolio/public/images/collective.png",
       description: "Flight booking system for Collective Airlines",
       wide: false,
       tags: ["JADE"]
@@ -29,7 +29,7 @@ function Projects() {
     {
       id: 3,
       title: "Gantt Chart Study Tracker",
-      image: "/images/gantt1.png",
+      image: "/React-Portfolio/public/images/gantt1.png",
       description: "Mobile application for tracking study sessions",
       wide: false,
       tags: ["Andriod Studio"]
@@ -37,7 +37,7 @@ function Projects() {
     {
       id: 4,
       title: "Automatic Clothes Line",
-      image: "/images/clothes.png",
+      image: "/React-Portfolio/public/images/clothes.png",
       description: "Automatic clothes retrieval",
       wide: true,
       tags: ["Embedded", "Python", "Serial"]
@@ -45,7 +45,7 @@ function Projects() {
     {
       id: 5,
       title: "To Do List",
-      image: "/images/toDo2.png",
+      image: "/React-Portfolio/public/images/toDo2.png",
       description: "Winforms based client server application",
       wide: true,
       tags: ["C#", "Winfroms"]

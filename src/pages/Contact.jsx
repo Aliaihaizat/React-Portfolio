@@ -15,7 +15,7 @@ export default function Contact() {
     });
   };
 
-  const handleSubmit = async (e) => {  // Added async here
+  const handleSubmit = async (e) => {  
     e.preventDefault();
     setStatus('Sending...');
 
